@@ -6,6 +6,8 @@
 
 * [ava-docs](https://github.com/mbiesiad/ava-docs/blob/pl_PL/pl_PL/readme.md)
 
+* [storybook](https://github.com/mbiesiad/storybook/tree/pl_PL) [WIP]
+
 # Tutorials & guidelines
 
 * [js-stack-from-scratch](https://github.com/mbiesiad/js-stack-from-scratch)
@@ -18,7 +20,7 @@
 
 * [javascript-testing-best-practices](https://github.com/mbiesiad/javascript-testing-best-practices/blob/master/readme-pl.md)
 
-* [awesome-fullstack-tutorials](https://github.com/mbiesiad/awesome-fullstack-tutorials/tree/pl)
+* [awesome-fullstack-tutorials](https://github.com/mbiesiad/awesome-fullstack-tutorials/tree/pl) [WIP]
 
 * [frontend-guidelines](https://github.com/mbiesiad/frontend-guidelines)
 
@@ -36,4 +38,6 @@
 
 * [nasa-comets](https://github.com/mbiesiad/nasa-comets)
 
-# Enjoy !
+## Enjoy !
+
+:rocket:
