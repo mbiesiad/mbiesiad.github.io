@@ -28,11 +28,15 @@
 
 * [Git-tips](https://github.com/mbiesiad/tips)
 
+* [developer-roadmap](https://github.com/mbiesiad/developer-roadmap/tree/master/translations/polish)
+
 # Awesome projects
 
 * [awesome-astronomy](https://github.com/mbiesiad/awesome-astronomy)
 
 * [awesome-chess](https://github.com/mbiesiad/awesome-chess)
+
+* [awesome-sql](https://github.com/mbiesiad/awesome-sql)
 
 * [COVID-19-World-Data](https://github.com/mbiesiad/COVID-19-World-Data)
 
