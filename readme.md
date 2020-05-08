@@ -8,6 +8,8 @@
 
 * [storybook](https://github.com/mbiesiad/storybook/tree/pl_PL) [WIP]
 
+* [Gatsbyjs.org](https://github.com/mbiesiad/gatsby-pl)
+
 # Tutorials & guidelines
 
 * [js-stack-from-scratch](https://github.com/mbiesiad/js-stack-from-scratch)
@@ -23,6 +25,8 @@
 * [awesome-fullstack-tutorials](https://github.com/mbiesiad/awesome-fullstack-tutorials/tree/pl) [WIP]
 
 * [frontend-guidelines](https://github.com/mbiesiad/frontend-guidelines)
+
+* [git-style-guide](https://github.com/mbiesiad/git-style-guide)
 
 # Tips
 
