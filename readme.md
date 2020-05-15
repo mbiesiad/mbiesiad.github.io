@@ -42,6 +42,8 @@
 
 * [awesome-sql](https://github.com/mbiesiad/awesome-sql)
 
+* [awesome-translations](https://github.com/mbiesiad/awesome-translations)
+
 * [COVID-19-World-Data](https://github.com/mbiesiad/COVID-19-World-Data)
 
 * [nasa-comets](https://github.com/mbiesiad/nasa-comets)
