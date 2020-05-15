@@ -26,6 +26,10 @@
 
 * [frontend-guidelines](https://github.com/mbiesiad/frontend-guidelines)
 
+* [opensourcefriday](https://github.com/mbiesiad/opensourcefriday/tree/pl)
+
+* [opensource.guide](https://github.com/mbiesiad/opensource.guide/tree/pl
+
 * [git-style-guide](https://github.com/mbiesiad/git-style-guide)
 
 # Tips
