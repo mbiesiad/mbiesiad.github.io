@@ -52,6 +52,20 @@
 
 * [nasa-comets](https://github.com/mbiesiad/nasa-comets)
 
+## IT Tech blog
+
+* [Website](https://biesiadamichal.wordpress.com/)
+
+* [IT Tech Blog](https://c0dingp0int3r.design.blog/)
+
+## Hackatons:
+
+* GitLab Hackathon - Q2'2020 [May 2020]
+
+* Hash Code - Google's Coding Competitions, QR [Feb. 2020]
+
+* GitLab Hackathon - Q1'2020 [Feb. 2020]
+
 ## Enjoy !
 
 :rocket:
