@@ -2,6 +2,10 @@
 
 * [Open Source Friday](https://opensourcefriday.com/users/mbiesiad)
 
+<a href="https://dev.to/mbiesiad">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
+</a>
+
 # Docs
 
 * [ava-docs](https://github.com/mbiesiad/ava-docs/blob/pl_PL/pl_PL/readme.md)
@@ -51,6 +55,10 @@
 * [COVID-19-World-Data](https://github.com/mbiesiad/COVID-19-World-Data)
 
 * [nasa-comets](https://github.com/mbiesiad/nasa-comets)
+
+<a href="https://dev.to/mbiesiad">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
+</a>
 
 ## IT Tech blog
 
