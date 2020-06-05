@@ -2,6 +2,8 @@
 
 * [Open Source Friday](https://opensourcefriday.com/users/mbiesiad)
 
+* [DEV Community](https://dev.to/mbiesiad)
+
 <a href="https://dev.to/mbiesiad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
 </a>
