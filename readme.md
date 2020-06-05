@@ -14,6 +14,8 @@
 
 * [Gatsbyjs.org](https://github.com/mbiesiad/gatsby-pl)
 
+* [Flame](https://github.com/mbiesiad/flame)
+
 # Tutorials & guidelines
 
 * [js-stack-from-scratch](https://github.com/mbiesiad/js-stack-from-scratch)
@@ -35,6 +37,8 @@
 * [opensource.guide](https://github.com/mbiesiad/opensource.guide/tree/pl)
 
 * [git-style-guide](https://github.com/mbiesiad/git-style-guide)
+
+* [100-days-of-code-frontend](https://github.com/mbiesiad/100-days-of-code-frontend)
 
 # Tips
 
