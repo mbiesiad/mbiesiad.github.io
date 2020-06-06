@@ -42,6 +42,8 @@
 
 * [100-days-of-code-frontend](https://github.com/mbiesiad/100-days-of-code-frontend)
 
+* [typescript-book](https://github.com/mbiesiad/typescript-book)
+
 # Tips
 
 * [Git-tips](https://github.com/mbiesiad/tips)
