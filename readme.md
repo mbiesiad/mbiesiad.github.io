@@ -50,6 +50,8 @@
 
 * [developer-roadmap](https://github.com/mbiesiad/developer-roadmap/tree/master/translations/polish)
 
+* [wtfjs](https://github.com/mbiesiad/wtfjs)
+
 # Awesome projects
 
 * [awesome-astronomy](https://github.com/mbiesiad/awesome-astronomy)
