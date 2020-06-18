@@ -80,6 +80,10 @@
 
 * [IT Tech Blog](https://c0dingp0int3r.design.blog/)
 
+## Miscellaneous
+
+* [discoveries-biesiada](https://github.com/mbiesiad/discoveries-biesiada)
+
 ## Hackatons:
 
 * GitLab Hackathon - Q2'2020 [May 2020]
