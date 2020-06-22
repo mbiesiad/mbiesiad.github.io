@@ -22,6 +22,8 @@
 
 * [Gulp](https://github.com/mbiesiad/gulp)
 
+* [Cypress](https://github.com/mbiesiad/cypress-documentation)
+
 # Tutorials & guidelines
 
 * [js-stack-from-scratch](https://github.com/mbiesiad/js-stack-from-scratch)
