@@ -98,6 +98,8 @@
 
 * [survey](https://github.com/mbiesiad/survey)
 
+* [VeraCrypt](https://github.com/mbiesiad/VeraCrypt)
+
 ## Hackatons:
 
 * GitLab Hackathon - Q2'2020 [May 2020]
