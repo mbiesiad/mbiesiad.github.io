@@ -52,6 +52,8 @@
 
 * [typescript-book](https://github.com/mbiesiad/typescript-book)
 
+* [Front-End-Checklist](https://github.com/mbiesiad/Front-End-Checklist)
+
 # Tips
 
 * [Git-tips](https://github.com/mbiesiad/tips)
