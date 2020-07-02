@@ -24,6 +24,8 @@
 
 * [Cypress](https://github.com/mbiesiad/cypress-documentation)
 
+* [tldr](https://github.com/mbiesiad/tldr)
+
 # Tutorials & guidelines
 
 * [js-stack-from-scratch](https://github.com/mbiesiad/js-stack-from-scratch)
@@ -85,6 +87,16 @@
 ## Miscellaneous
 
 * [discoveries-biesiada](https://github.com/mbiesiad/discoveries-biesiada)
+
+* [awesome-captcha](https://github.com/mbiesiad/awesome-captcha)
+
+* [coding-interview-university](https://github.com/mbiesiad/coding-interview-university)
+
+* [Public_Speaking](https://github.com/mbiesiad/Public_Speaking)
+
+* [polish-it-conferences](https://github.com/mbiesiad/polish-it-conferences)
+
+* [survey](https://github.com/mbiesiad/survey)
 
 ## Hackatons:
 
