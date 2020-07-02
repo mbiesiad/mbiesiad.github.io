@@ -102,7 +102,7 @@
 
 ## Hackatons:
 
-* GitLab Hackathon - Q2'2020 [May 2020]
+* GitLab Hackathon - Q2'2020 [May 2020], winners
 
 * Hash Code - Google's Coding Competitions, QR [Feb. 2020]
 
