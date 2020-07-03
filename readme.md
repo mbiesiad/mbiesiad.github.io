@@ -54,6 +54,8 @@
 
 * [Front-End-Checklist](https://github.com/mbiesiad/Front-End-Checklist)
 
+* [Airbnb JavaScript Style Guide](https://github.com/mbiesiad/javascript)
+
 # Tips
 
 * [Git-tips](https://github.com/mbiesiad/tips)
