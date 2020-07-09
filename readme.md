@@ -104,6 +104,8 @@
 
 * [VeraCrypt](https://github.com/mbiesiad/VeraCrypt)
 
+* [soho-comet-discoverers](https://github.com/mbiesiad/soho-comet-discoverers)
+
 ## Hackatons:
 
 * GitLab Hackathon - Q2'2020 [May 2020], winners
