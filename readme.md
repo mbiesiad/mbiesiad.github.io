@@ -6,6 +6,8 @@
 
 * [Gatsby Mainteners](https://github.com/gatsbyjs)
 
+* [Vue.js Polish User Group](https://github.com/vuejs-pl)
+
 <a href="https://dev.to/mbiesiad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
 </a>
@@ -25,6 +27,8 @@
 * [Cypress](https://github.com/mbiesiad/cypress-documentation)
 
 * [tldr](https://github.com/mbiesiad/tldr)
+
+* [Vue.js](https://github.com/mbiesiad/pl.vuejs.org/tree/fixes)
 
 # Tutorials & guidelines
 
