@@ -30,6 +30,8 @@
 
 * [Vue.js](https://github.com/mbiesiad/pl.vuejs.org/tree/fixes)
 
+* [React.js](https://github.com/mbiesiad/pl.reactjs.org)
+
 # Tutorials & guidelines
 
 * [js-stack-from-scratch](https://github.com/mbiesiad/js-stack-from-scratch)
