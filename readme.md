@@ -116,6 +116,8 @@
 
 ## Hackatons:
 
+* Hacktoberfest 2020
+
 * GitLab Hackathon - Q3'2020 [Sep. 2020], winners
 
 * GitLab Commit Quest [Sep. 2020], winners
