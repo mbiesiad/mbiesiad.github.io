@@ -114,7 +114,7 @@
 
 * [Carbon](https://github.com/mbiesiad/carbon)
 
-## Hackatons:
+## Hackathons:
 
 * Hacktoberfest 2020
 
