@@ -116,7 +116,7 @@
 
 ## Hackathons:
 
-* Hacktoberfest 2020, winners
+* Hacktoberfest 2020 [Oct. 2020], winners
 
 * GitLab Hackathon - Q3'2020 [Sep. 2020], winners
 
