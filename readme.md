@@ -10,6 +10,7 @@
 
 <a href="https://dev.to/mbiesiad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Michal's Hacktoberfest2020 badge" height="90" width="90">
 </a>
 
 # Docs
@@ -86,6 +87,7 @@
 
 <a href="https://dev.to/mbiesiad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Michal's Hacktoberfest2020 badge" height="90" width="90">
 </a>
 
 ## IT Tech blog
