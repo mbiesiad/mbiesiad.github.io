@@ -120,6 +120,8 @@
 
 * [All Contributors](https://github.com/all-contributors/all-contributors)
 
+* [Open Pixel Art by Twilio](https://github.com/mbiesiad/open-pixel-art/tree/pl_PL)
+
 ## Hackathons:
 
 * Hacktoberfest 2020 [Oct. 2020], winners
