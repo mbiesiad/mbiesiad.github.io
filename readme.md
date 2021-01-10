@@ -118,6 +118,10 @@
 
 * [Contributor Covenant](https://github.com/mbiesiad/contributor_covenant)
 
+* [Asteroids](https://github.com/mbiesiad/asteroids-biesiada)
+
+* [Supernovas](https://github.com/mbiesiad/supernovas-biesiada)
+
 * [All Contributors](https://github.com/all-contributors/all-contributors)
 
 * [Open Pixel Art by Twilio](https://github.com/mbiesiad/open-pixel-art/tree/pl_PL)
