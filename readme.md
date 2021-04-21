@@ -1,5 +1,8 @@
 # Open Source Friday by GitHub
 
+I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome coding news reader that delivers the top dev news in a way that’s simple and developer-friendly. Best of all, you can personalize it to get only the things you like. Invitation link:
+https://api.daily.dev/get?r=mbiesiad
+
 * [Open Source Friday](https://opensourcefriday.com/users/mbiesiad)
 
 * [DEV Community](https://dev.to/mbiesiad)
