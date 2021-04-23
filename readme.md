@@ -36,6 +36,8 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 * [React.js](https://github.com/mbiesiad/pl.reactjs.org)
 
+* [PrimeNG](https://github.com/mbiesiad/primeng)
+
 # Tutorials & guidelines
 
 * [js-stack-from-scratch](https://github.com/mbiesiad/js-stack-from-scratch)
