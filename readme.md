@@ -86,6 +86,8 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 * [awesome-translations](https://github.com/mbiesiad/awesome-translations)
 
+  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 * [COVID-19-World-Data](https://github.com/mbiesiad/COVID-19-World-Data)
 
 * [nasa-comets](https://github.com/mbiesiad/nasa-comets)
