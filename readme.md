@@ -150,3 +150,5 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 ## Enjoy !
 
 :rocket:
+
+![Visitors since 28 Jun 2021 Test](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mbiesiad&repo=mbiesiad&countColor=white&labelColor=white)
