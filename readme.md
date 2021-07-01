@@ -133,6 +133,8 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 * [Open Pixel Art by Twilio](https://github.com/mbiesiad/open-pixel-art/tree/pl_PL)
 
+  [![Twitter Awesome T9n](https://user-images.githubusercontent.com/18367606/124166139-ccc5bc00-daa2-11eb-910f-5ed47510ac04.png)](https://twitter.com/awesome__re/status/1369324519387783176)
+
 ## Hackathons:
 
 * Hacktoberfest 2020 [Oct. 2020], winners
