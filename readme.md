@@ -137,15 +137,15 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 ## Hackathons:
 
-* GitLab Hackathon - Q2'2021 [Jun. 2021], winners
+* GitLab Hackathon - Q2'2021 [Jun. 2021], winners :tada:
 
-* Hacktoberfest 2020 [Oct. 2020], winners
+* Hacktoberfest 2020 [Oct. 2020], winners :tada:
 
-* GitLab Hackathon - Q3'2020 [Sep. 2020], winners
+* GitLab Hackathon - Q3'2020 [Sep. 2020], winners :tada:
 
-* GitLab Commit Quest [Sep. 2020], winners
+* GitLab Commit Quest [Sep. 2020], winners :tada:
 
-* GitLab Hackathon - Q2'2020 [May 2020], winners
+* GitLab Hackathon - Q2'2020 [May 2020], winners :tada:
 
 * Hash Code - Google's Coding Competitions, QR [Feb. 2020]
 
