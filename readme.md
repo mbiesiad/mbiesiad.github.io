@@ -137,7 +137,7 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 ## Hackathons:
 
-* GitLab Hackathon - Q2'2021 [Jun. 2021]
+* GitLab Hackathon - Q2'2021 [Jun. 2021], winners
 
 * Hacktoberfest 2020 [Oct. 2020], winners
 
