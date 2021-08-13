@@ -86,6 +86,8 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 * [awesome-chess](https://github.com/mbiesiad/awesome-chess)
 
+* [awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons)
+
 * [awesome-sql](https://github.com/mbiesiad/awesome-sql)
 
 <a href="https://dev.to/mbiesiad">
