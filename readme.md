@@ -78,15 +78,15 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 # Awesome projects
 
+* [awesome-translations](https://github.com/mbiesiad/awesome-translations)
+
+  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 * [awesome-astronomy](https://github.com/mbiesiad/awesome-astronomy)
 
 * [awesome-chess](https://github.com/mbiesiad/awesome-chess)
 
 * [awesome-sql](https://github.com/mbiesiad/awesome-sql)
-
-* [awesome-translations](https://github.com/mbiesiad/awesome-translations)
-
-  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <a href="https://dev.to/mbiesiad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
