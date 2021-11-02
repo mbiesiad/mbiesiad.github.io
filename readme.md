@@ -16,6 +16,16 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Michal's Hacktoberfest2020 badge" height="90" width="90">
 </a>
 
+# TOC
+* [Docs](#docs)
+* [Tutorials & guidelines](#tutorials--guidelines)
+* [Tips](#tips)
+* [Awesome projects](#awesome-projects)
+* [IT Tech blog](#it-tech-blog)
+* [Miscellaneous](#miscellaneous)
+* [Hackathons](#hackathons)
+
+
 # Docs
 
 * [ava-docs](https://github.com/mbiesiad/ava-docs/blob/pl_PL/pl_PL/readme.md)
