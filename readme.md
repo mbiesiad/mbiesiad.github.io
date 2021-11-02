@@ -155,9 +155,9 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 * GitLab Hackathon - Q2'2020 [May 2020], winners :tada:
 
-* Hash Code - Google's Coding Competitions, QR [Feb. 2020]
+* Hash Code - Google's Coding Competitions, QR [Feb. 2020], participation
 
-* GitLab Hackathon - Q1'2020 [Feb. 2020]
+* GitLab Hackathon - Q1'2020 [Feb. 2020], participation
 
 ## Enjoy !
 
