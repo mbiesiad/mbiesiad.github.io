@@ -1,4 +1,4 @@
-# Open Source Friday by GitHub
+# Join the Open Source Friday by GitHub
 
 I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome coding news reader that delivers the top dev news in a way that’s simple and developer-friendly. Best of all, you can personalize it to get only the things you like. Invitation link:
 [https://api.daily.dev/get?r=mbiesiad](https://api.daily.dev/get?r=mbiesiad)
