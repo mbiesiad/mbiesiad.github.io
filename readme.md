@@ -109,7 +109,7 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 ## IT Tech blog
 
-* [Website](https://biesiadamichal.wordpress.com/)
+* [Website](https://biesiadamichal.com/)
 
 * [IT Tech Blog](https://c0dingp0int3r.design.blog/)
 
