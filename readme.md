@@ -151,6 +151,8 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 * [24PRs](https://github.com/mbiesiad/24pullrequests)
 
+* [Panoptes front-end](https://github.com/mbiesiad/Panoptes-Front-End)
+
   [![Twitter Awesome T9n](https://user-images.githubusercontent.com/18367606/124168019-dea85e80-daa4-11eb-9044-c3935a160e28.png)](https://twitter.com/awesome__re/status/1369324519387783176)
 
 ## Hackathons:
