@@ -157,7 +157,7 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 ## Hackathons:
 
-* pingCTF [18-19 Dec. 2021], participation (a flag captured)
+* pingCTF [Dec. 2021], participation (a flags captured) :triangular_flag_on_post:
 
 * Hacktoberfest 2021 [Oct. 2021], winners :tada:
 
