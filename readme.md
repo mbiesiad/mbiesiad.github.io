@@ -157,6 +157,8 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 ## Hackathons:
 
+* pingCTF [18-19 Dec. 2021], participation (a flag captured)
+
 * Hacktoberfest 2021 [Oct. 2021], winners :tada:
 
 * GitLab Commit Quest [Aug. 2021], winners :tada:
