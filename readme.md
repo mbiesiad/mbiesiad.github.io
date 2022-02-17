@@ -26,6 +26,15 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 * [Miscellaneous](#miscellaneous)
 * [Hackathons](#hackathons)
 
+Current stats:
+<p align="left">
+	<img src=https://github-readme-stats.vercel.app/api?username=mbiesiad&show_icons=true alt="mbiesiad stats"/>
+</p>
+
+Previous stats:
+<p align="left">
+	<img src=https://github.com/mbiesiad/mbiesiad.github.io/blob/master/src/images/mb-github-stats-2020.PNG alt="mb-stats-2020"/>
+</p>
 
 # Docs
 
