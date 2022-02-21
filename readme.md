@@ -174,6 +174,8 @@ Previous stats:
 
 ## Hackathons:
 
+Selected hackathons & CTFs with my participation.
+
 * pingCTF [Dec. 2021], participation (a flags captured) :triangular_flag_on_post:
 
 * Hacktoberfest 2021 [Oct. 2021], winners :tada:
