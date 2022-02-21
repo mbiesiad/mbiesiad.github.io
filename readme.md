@@ -18,10 +18,10 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 </a>
 
 # TOC
+* [Awesome projects](#awesome-projects)
 * [Docs](#docs)
 * [Tutorials & guidelines](#tutorials--guidelines)
 * [Tips](#tips)
-* [Awesome projects](#awesome-projects)
 * [IT Tech blog](#it-tech-blog)
 * [Miscellaneous](#miscellaneous)
 * [Hackathons](#hackathons)
@@ -33,6 +33,30 @@ Current stats:
 Previous stats:
 
 ![mb-previous-stats](/src/images/mb-github-stats-2020.PNG)
+
+# Awesome projects
+
+* [awesome-translations](https://github.com/mbiesiad/awesome-translations)
+
+  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  
+  o [Web page](https://mbiesiad.github.io/awesome-translations)
+
+* [awesome-astronomy](https://github.com/mbiesiad/awesome-astronomy)
+
+  o [Web page](https://mbiesiad.github.io/awesome-astronomy)
+
+* [awesome-chess](https://github.com/mbiesiad/awesome-chess)
+
+  o [Web page](https://mbiesiad.github.io/awesome-chess)
+
+* [awesome-sql](https://github.com/mbiesiad/awesome-sql)
+
+  o [Web page](https://mbiesiad.github.io/awesome-sql)
+  
+* [awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons)
+
+  o [Web page](https://mbiesiad.github.io/awesome-hackathons)
 
 # Docs
 
@@ -93,30 +117,6 @@ Previous stats:
 * [developer-roadmap](https://github.com/mbiesiad/developer-roadmap/tree/master/translations/polish)
 
 * [wtfjs](https://github.com/mbiesiad/wtfjs)
-
-# Awesome projects
-
-* [awesome-translations](https://github.com/mbiesiad/awesome-translations)
-
-  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-  
-  o [Web page](https://mbiesiad.github.io/awesome-translations)
-
-* [awesome-astronomy](https://github.com/mbiesiad/awesome-astronomy)
-
-  o [Web page](https://mbiesiad.github.io/awesome-astronomy)
-
-* [awesome-chess](https://github.com/mbiesiad/awesome-chess)
-
-  o [Web page](https://mbiesiad.github.io/awesome-chess)
-
-* [awesome-sql](https://github.com/mbiesiad/awesome-sql)
-
-  o [Web page](https://mbiesiad.github.io/awesome-sql)
-  
-* [awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons)
-
-  o [Web page](https://mbiesiad.github.io/awesome-hackathons)
 
 <a href="https://dev.to/mbiesiad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
