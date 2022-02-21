@@ -99,14 +99,24 @@ Previous stats:
 * [awesome-translations](https://github.com/mbiesiad/awesome-translations)
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  
+  o [Web page](https://mbiesiad.github.io/awesome-translations)
 
 * [awesome-astronomy](https://github.com/mbiesiad/awesome-astronomy)
 
+  o [Web page](https://mbiesiad.github.io/awesome-astronomy)
+
 * [awesome-chess](https://github.com/mbiesiad/awesome-chess)
 
-* [awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons)
+  o [Web page](https://mbiesiad.github.io/awesome-chess)
 
 * [awesome-sql](https://github.com/mbiesiad/awesome-sql)
+
+  o [Web page](https://mbiesiad.github.io/awesome-sql)
+  
+* [awesome-hackathons](https://github.com/mbiesiad/awesome-hackathons)
+
+  o [Web page](https://mbiesiad.github.io/awesome-hackathons)
 
 <a href="https://dev.to/mbiesiad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
