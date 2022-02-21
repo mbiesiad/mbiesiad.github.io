@@ -136,6 +136,8 @@ Previous stats:
 
 * [COVID-19-World-Data](https://github.com/mbiesiad/COVID-19-World-Data)
 
+  o [Web page (Poland stats)](https://mbiesiad.github.io/COVID-19-World-Data/)
+
 * [nasa-comets](https://github.com/mbiesiad/nasa-comets)
 
 * [awesome-captcha](https://github.com/mbiesiad/awesome-captcha)
