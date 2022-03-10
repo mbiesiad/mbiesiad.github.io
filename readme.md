@@ -3,6 +3,8 @@
 I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome coding news reader that delivers the top dev news in a way that’s simple and developer-friendly. Best of all, you can personalize it to get only the things you like. Invitation link:
 [https://api.daily.dev/get?r=mbiesiad](https://api.daily.dev/get?r=mbiesiad)
 
+<img alt="mbiesiad stars" src="https://img.shields.io/github/stars/mbiesiad?style=social">
+
 * [Open Source Friday](https://opensourcefriday.com/users/mbiesiad)
 
 * [DEV Community](https://dev.to/mbiesiad)
@@ -201,5 +203,7 @@ Selected hackathons & CTFs with my participation.
 ## Enjoy !
 
 :rocket:
+
+<img alt="mbiesiad stars" src="https://img.shields.io/github/stars/mbiesiad?style=social">
 
 ![Visitors since 28 Jun 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mbiesiad&repo=mbiesiad&countColor=red&labelColor=green)
