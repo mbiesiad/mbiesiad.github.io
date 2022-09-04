@@ -5,8 +5,6 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 <img alt="mbiesiad stars" src="https://img.shields.io/github/stars/mbiesiad?style=social">
 
-* [Open Source Friday](https://opensourcefriday.com/users/mbiesiad)
-
 * [DEV Community](https://dev.to/mbiesiad)
 
 * [Gatsby Mainteners](https://github.com/gatsbyjs)
