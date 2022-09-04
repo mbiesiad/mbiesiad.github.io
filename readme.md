@@ -1,4 +1,6 @@
-# Join the Open Source Friday by GitHub
+# Experienced Software Engineer
+
+Proudly supports Open Source ❤
 
 I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome coding news reader that delivers the top dev news in a way that’s simple and developer-friendly. Best of all, you can personalize it to get only the things you like. Invitation link:
 [https://api.daily.dev/get?r=mbiesiad](https://api.daily.dev/get?r=mbiesiad)
@@ -173,6 +175,8 @@ Previous stats:
 * [Panoptes front-end](https://github.com/mbiesiad/Panoptes-Front-End)
 
   [![Twitter Awesome T9n](https://user-images.githubusercontent.com/18367606/124168019-dea85e80-daa4-11eb-9044-c3935a160e28.png)](https://twitter.com/awesome__re/status/1369324519387783176)
+
+And... many more!
 
 ## Hackathons:
 
