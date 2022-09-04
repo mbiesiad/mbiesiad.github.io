@@ -7,7 +7,7 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 * [DEV Community](https://dev.to/mbiesiad)
 
-* [Gatsby Mainteners](https://github.com/gatsbyjs)
+* [Gatsby Mainteners (previous rules)](https://github.com/gatsbyjs)
 
 * [Vue.js Polish User Group](https://github.com/vuejs-pl)
 
