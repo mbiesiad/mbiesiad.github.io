@@ -208,4 +208,6 @@ Selected hackathons & CTFs with my participation.
 
 <img alt="mbiesiad stars" src="https://img.shields.io/github/stars/mbiesiad?style=social">
 
-![Visitors since 2022-7-1](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mbiesiad&repo=mbiesiad&countColor=red&labelColor=green)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mbiesiad&color=red&plastic" alt="visitors 2022-11-08">
+</a>
