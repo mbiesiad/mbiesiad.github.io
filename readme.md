@@ -1,4 +1,4 @@
-# Experienced Software Engineer
+# Software Engineer. Security researcher.
 
 Proudly supports Open Source ❤
 
@@ -9,10 +9,6 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 * [DEV Community](https://dev.to/mbiesiad)
 
-* [Gatsby Mainteners (previous rules)](https://github.com/gatsbyjs)
-
-* [Vue.js Polish User Group](https://github.com/vuejs-pl)
-
 <a href="https://dev.to/mbiesiad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Michal's Hacktoberfest2020 badge" height="90" width="90">
@@ -21,11 +17,7 @@ I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome
 
 # TOC
 * [Awesome projects](#awesome-projects)
-* [Docs](#docs)
-* [Tutorials & guidelines](#tutorials--guidelines)
-* [Tips](#tips)
 * [IT Tech blog](#it-tech-blog)
-* [Miscellaneous](#miscellaneous)
 * [Hackathons](#hackathons)
 
 Current stats:
@@ -60,65 +52,7 @@ Previous stats:
 
   o [Web page](https://mbiesiad.github.io/awesome-hackathons)
 
-# Docs
 
-* [ava-docs](https://github.com/mbiesiad/ava-docs/blob/pl_PL/pl_PL/readme.md)
-
-* [storybook](https://github.com/mbiesiad/storybook/tree/pl_PL) [WIP]
-
-* [Gatsbyjs.org](https://github.com/mbiesiad/gatsby-pl)
-
-* [Flame](https://github.com/mbiesiad/flame)
-
-* [Gulp](https://github.com/mbiesiad/gulp)
-
-* [Cypress](https://github.com/mbiesiad/cypress-documentation)
-
-* [tldr](https://github.com/mbiesiad/tldr)
-
-* [Vue.js](https://github.com/mbiesiad/pl.vuejs.org/tree/fixes)
-
-* [React.js](https://github.com/mbiesiad/pl.reactjs.org)
-
-* [PrimeNG](https://github.com/mbiesiad/primeng)
-
-# Tutorials & guidelines
-
-* [js-stack-from-scratch](https://github.com/mbiesiad/js-stack-from-scratch)
-
-* [nodebestpractices](https://github.com/mbiesiad/nodebestpractices/blob/master/README.polish.md)
-
-* [Front-End-Performance-Checklist](https://github.com/mbiesiad/Front-End-Performance-Checklist)
-
-* [front-end-interview-handbook](https://github.com/mbiesiad/front-end-interview-handbook/blob/master/Translations/Polish/README.md)
-
-* [javascript-testing-best-practices](https://github.com/mbiesiad/javascript-testing-best-practices/blob/master/readme-pl.md)
-
-* [awesome-fullstack-tutorials](https://github.com/mbiesiad/awesome-fullstack-tutorials/tree/pl) [WIP]
-
-* [frontend-guidelines](https://github.com/mbiesiad/frontend-guidelines)
-
-* [opensourcefriday](https://github.com/mbiesiad/opensourcefriday/tree/pl)
-
-* [opensource.guide](https://github.com/mbiesiad/opensource.guide/tree/pl)
-
-* [git-style-guide](https://github.com/mbiesiad/git-style-guide)
-
-* [100-days-of-code-frontend](https://github.com/mbiesiad/100-days-of-code-frontend)
-
-* [typescript-book](https://github.com/mbiesiad/typescript-book)
-
-* [Front-End-Checklist](https://github.com/mbiesiad/Front-End-Checklist)
-
-* [Airbnb JavaScript Style Guide](https://github.com/mbiesiad/javascript)
-
-# Tips
-
-* [Git-tips](https://github.com/mbiesiad/tips)
-
-* [developer-roadmap](https://github.com/mbiesiad/developer-roadmap/tree/master/translations/polish)
-
-* [wtfjs](https://github.com/mbiesiad/wtfjs)
 
 <a href="https://dev.to/mbiesiad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
@@ -132,47 +66,7 @@ Previous stats:
 
 * [IT Tech Blog](https://c0dingp0int3r.design.blog/)
 
-## Miscellaneous
 
-* [discoveries-biesiada](https://github.com/mbiesiad/discoveries-biesiada)
-
-* [COVID-19-World-Data](https://github.com/mbiesiad/COVID-19-World-Data)
-
-  o [Web page (Poland stats)](https://mbiesiad.github.io/COVID-19-World-Data/)
-
-* [nasa-comets](https://github.com/mbiesiad/nasa-comets)
-
-* [awesome-captcha](https://github.com/mbiesiad/awesome-captcha)
-
-* [coding-interview-university](https://github.com/mbiesiad/coding-interview-university)
-
-* [Public_Speaking](https://github.com/mbiesiad/Public_Speaking)
-
-* [polish-it-conferences](https://github.com/mbiesiad/polish-it-conferences)
-
-* [survey](https://github.com/mbiesiad/survey)
-
-* [VeraCrypt](https://github.com/mbiesiad/VeraCrypt)
-
-* [soho-comet-discoverers](https://github.com/mbiesiad/soho-comet-discoverers)
-
-* [Carbon](https://github.com/mbiesiad/carbon)
-
-* [Contributor Covenant](https://github.com/mbiesiad/contributor_covenant)
-
-* [Asteroids](https://github.com/mbiesiad/asteroids-biesiada)
-
-* [Supernovas](https://github.com/mbiesiad/supernovas-biesiada)
-
-* [All Contributors](https://github.com/all-contributors/all-contributors)
-
-* [Open Pixel Art by Twilio](https://github.com/mbiesiad/open-pixel-art/tree/pl_PL)
-
-* [mbiesiad.github.io](https://github.com/mbiesiad/mbiesiad.github.io)
-
-* [24PRs](https://github.com/mbiesiad/24pullrequests)
-
-* [Panoptes front-end](https://github.com/mbiesiad/Panoptes-Front-End)
 
   [![Twitter Awesome T9n](https://user-images.githubusercontent.com/18367606/124168019-dea85e80-daa4-11eb-9044-c3935a160e28.png)](https://twitter.com/awesome__re/status/1369324519387783176)
 
