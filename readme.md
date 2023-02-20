@@ -74,7 +74,7 @@ And... many more!
 
 ## Hackathons:
 
-Selected hackathons & CTFs with my participation (I will not longer update activity here - I love be quite active):
+Selected hackathons & CTFs with my participation (I will not longer update activity here - I love be quite active, but I also like OPSEC):
 
 * pingCTF [Dec. 2021], participation (a flags captured) :triangular_flag_on_post:
 
