@@ -5,6 +5,8 @@ Proudly supports Open Source ❤
 I highly recommend giving [daily.dev](http://daily.dev) a try. It’s an awesome coding news reader that delivers the top dev news in a way that’s simple and developer-friendly. Best of all, you can personalize it to get only the things you like. Invitation link:
 [https://api.daily.dev/get?r=mbiesiad](https://api.daily.dev/get?r=mbiesiad)
 
+Hall of Fame for Security researchers - please check on Linkedin (selected).
+
 <img alt="mbiesiad stars" src="https://img.shields.io/github/stars/mbiesiad?style=social">
 
 * [DEV Community](https://dev.to/mbiesiad)
