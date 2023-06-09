@@ -19,7 +19,7 @@ Hall of Fame for Security researchers - please check on Linkedin (selected).
 
 # TOC
 * [Awesome projects](#awesome-projects)
-* [IT Tech blog](#it-tech-blog)
+* [Personal website](#personal-website)
 * [Hackathons](#hackathons)
 
 Current stats:
@@ -62,12 +62,9 @@ Previous stats:
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Michal's Hacktoberfest2021 badge" height="90" width="90">
 </a>
 
-## IT Tech blog
+## Personal website
 
 * [Website](https://biesiadamichal.com/)
-
-* [IT Tech Blog](https://c0dingp0int3r.design.blog/)
-
 
 
   [![Twitter Awesome T9n](https://user-images.githubusercontent.com/18367606/124168019-dea85e80-daa4-11eb-9044-c3935a160e28.png)](https://twitter.com/awesome__re/status/1369324519387783176)
