@@ -2,7 +2,9 @@
 
 Proudly supports Open Source ❤
 
-Hall of Fame for Security researchers - please check on Linkedin (selected).
+Hall of Fame for Security researchers:
+
+* [hall-of-thanks-mb](https://github.com/mbiesiad/hall-of-thanks-mb)
 
 <img alt="mbiesiad stars" src="https://img.shields.io/github/stars/mbiesiad?style=social">
 
