@@ -2,9 +2,9 @@
 
 Proudly supports Open Source ❤
 
-Hall of Fame for Security researchers:
+[SECURITY] - Hall of Fame for Security researchers:
 
-* [hall-of-thanks-mb](https://github.com/mbiesiad/hall-of-thanks-mb)
+* [Hall of Thanks](https://github.com/mbiesiad/security-hall-of-fame-mb)
 
 <img alt="mbiesiad stars" src="https://img.shields.io/github/stars/mbiesiad?style=social">
 
@@ -72,9 +72,9 @@ And... many more!
 
 ## Hackathons:
 
-Selected hackathons & CTFs with my participation (I will not longer update activity here - I love be quite active, but I also like OPSEC):
+Selected hackathons & CTF events with my participation (I will not longer update activity here - I love be quite active, but I also like OPSEC):
 
-* 2022-2023: GitLab Hackathons & SnykCTFs (for instance) 🚩
+* [2022-2023]: GitLab Hackathons & Snyk CTF events (for instance) 🚩
 
 * pingCTF [Dec. 2021], participation (a flags captured) :triangular_flag_on_post:
 
