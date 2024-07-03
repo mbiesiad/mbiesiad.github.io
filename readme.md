@@ -74,7 +74,7 @@ And... many more!
 
 Selected hackathons & CTF events with my participation (I will not longer update activity here - I love be quite active, but I also like OPSEC):
 
-* [2022-2023]: GitLab Hackathons & Snyk CTF events (for instance) 🚩
+* GitLab Hackathons & Snyk CTF events (for instance) [2022-2023] 🚩
 
 * pingCTF [Dec. 2021], participation (a flags captured) :triangular_flag_on_post:
 
