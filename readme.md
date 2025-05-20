@@ -1,8 +1,8 @@
-# Software Engineer. Security researcher.
+# Software engineer. Security researcher.
 
 Proudly supports Open Source ❤
 
-[SECURITY] - Hall of Fame for Security researchers:
+# Hall of Fame for security researchers:
 
 * [Hall of Thanks](https://github.com/mbiesiad/security-hall-of-fame-mb)
 
@@ -12,8 +12,6 @@ Proudly supports Open Source ❤
 
 <a href="https://dev.to/mbiesiad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Michal's Hacktoberfest2020 badge" height="90" width="90">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Michal's Hacktoberfest2021 badge" height="90" width="90">
 </a>
 
 # TOC
@@ -32,8 +30,6 @@ Previous stats:
 # Awesome projects
 
 * [awesome-translations](https://github.com/mbiesiad/awesome-translations)
-
-  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   
   o [Web page](https://mbiesiad.github.io/awesome-translations)
 
@@ -57,13 +53,11 @@ Previous stats:
 
 <a href="https://dev.to/mbiesiad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Michal's DEV Profile" height="90" width="90">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Michal's Hacktoberfest2020 badge" height="90" width="90">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Michal's Hacktoberfest2021 badge" height="90" width="90">
 </a>
 
 ## Personal website
 
-* [Website](https://biesiadamichal.com/)
+* [Website](https://biesiadamichal.wordpress.com/)
 
 
   [![Twitter Awesome T9n](https://user-images.githubusercontent.com/18367606/124168019-dea85e80-daa4-11eb-9044-c3935a160e28.png)](https://twitter.com/awesome__re/status/1369324519387783176)
@@ -72,7 +66,8 @@ And... many more!
 
 ## Hackathons:
 
-Selected hackathons & CTF events with my participation (I will not longer update activity here - I love be quite active, but I also like OPSEC):
+Selected hackathons & CTF events with my participation:
+* Selected writeups: https://github.com/mbiesiad/ctf-writeups
 
 * GitLab Hackathons & Snyk CTF events (for instance) [2022-2023] 🚩
 
